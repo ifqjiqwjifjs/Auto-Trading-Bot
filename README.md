@@ -11,7 +11,7 @@
 <p dir="auto">Password: 0205</p>
 </blockquote>
 
-![1] (https://i.imgur.com/xzf8ll2.png)
+![1](https://i.imgur.com/xzf8ll2.png)
 
 
 
